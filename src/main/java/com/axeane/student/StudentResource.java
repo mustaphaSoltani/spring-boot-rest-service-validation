@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.rest.example.student;
+package com.axeane.student;
 
 import static org.springframework.hateoas.mvc.ControllerLinkBuilder.linkTo;
 import static org.springframework.hateoas.mvc.ControllerLinkBuilder.methodOn;

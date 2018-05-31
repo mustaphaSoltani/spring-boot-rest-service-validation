@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.rest.example.student;
+package com.axeane.student;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
